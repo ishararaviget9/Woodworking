@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Woodworking/static/css/main.e69ff7c2.css",
+    "main.js": "/Woodworking/static/js/main.b02b91ec.js",
+    "static/js/787.564b8705.chunk.js": "/Woodworking/static/js/787.564b8705.chunk.js",
+    "static/media/wood-tools-desk.png": "/Woodworking/static/media/wood-tools-desk.a108e4b9e3141dffb525.png",
+    "static/media/woodLogo1.svg": "/Woodworking/static/media/woodLogo1.605101f7efcde723e10cc3977f1f3412.svg",
+    "static/media/my_logo.png": "/Woodworking/static/media/my_logo.d118d2477c2ca5d1e38a.png",
+    "index.html": "/Woodworking/index.html",
+    "main.e69ff7c2.css.map": "/Woodworking/static/css/main.e69ff7c2.css.map",
+    "main.b02b91ec.js.map": "/Woodworking/static/js/main.b02b91ec.js.map",
+    "787.564b8705.chunk.js.map": "/Woodworking/static/js/787.564b8705.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e69ff7c2.css",
+    "static/js/main.b02b91ec.js"
+  ]
+}
