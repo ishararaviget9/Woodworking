@@ -10,11 +10,13 @@ function Hero() {
           <div class="aggettivi">
             <div className="text">
               <div class="text-animated-one">
-                Custom Furniture, <br></br>Any Woodworking<br></br>
+                <h1>Custom Furniture,</h1>
+                <h1> Any Woodworking</h1>
                 <p>Let us build for you!</p>
               </div>
               <div class="text-animated-two">
-                සිතැගි ගෘහභාණ්ඩ, <br></br>ඕනෑම ලී වැඩ<br></br>
+                <h1>සිතැගි ගෘහභාණ්ඩ,</h1>
+                <h1> ඕනෑම ලී වැඩ</h1>
                 <p>අපි ඔබ වෙනුවෙන් සකසා දෙන්නෙමු!</p>
               </div>
             </div>

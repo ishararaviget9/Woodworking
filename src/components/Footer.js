@@ -40,6 +40,8 @@ const Footer = () => {
               <a href="https://discord.gg/ZCyEMb9y">
                 <i class="ri-discord-fill"></i>
               </a>
+            </div>
+            <div className="social-icon">
               <a href="https://t.me/DroidImaginalytic">
                 <i class="ri-telegram-fill"></i>
               </a>
