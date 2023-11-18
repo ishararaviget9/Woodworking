@@ -1,0 +1,123 @@
+.NavbarItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+  width: 96%;
+  background: #141414;
+  height: 90px;
+  border-radius: 10px;
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translate(-50%);
+  z-index: 9999;
+}
+.NavbarItems.scrolledClass {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  transition: background-color 200ms ease-in-out;
+}
+.Navbar-logo {
+  align-items: center;
+  display: flex;
+  cursor: pointer;
+  height: 60px;
+  padding: 0 20px;
+  border-radius: 10px;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+  transition: all 0.45s ease-in-out;
+}
+.NavbarItems .Navbar-logo .Navbar-img {
+  width: 150px;
+  height: 150px;
+}
+@media (max-width: 576px) {
+  .NavbarItems {
+    width: 95%;
+    left: 50%;
+    z-index: 99;
+    flex-direction: column;
+  }
+  .Navbar-logo {
+    padding: 20px;
+    margin: 20px 0 20px 0;
+  }
+}
+@media (max-width: 768px) {
+  .NavbarItems {
+    width: 95%;
+    left: 50%;
+    z-index: 99;
+    flex-direction: column;
+  }
+  .Navbar-logo {
+    padding: 20px;
+    margin: 20px 0 20px 0;
+  }
+}
+
+@media (max-width: 992px) {
+  .NavbarItems {
+    width: 95%;
+    left: 50%;
+    z-index: 99;
+    flex-direction: column;
+  }
+  .Navbar-logo {
+    padding: 20px;
+    margin: 20px 0 20px 0;
+  }
+}
+.social-links,
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-btn {
+  cursor: pointer;
+  height: 55px;
+  width: 55px;
+  border-radius: 50px;
+  font-family: "Titillium Web", sans-serif;
+  color: #ffffff;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+  background: white;
+  margin: 5px;
+  transition: 0.3s;
+  justify-content: center;
+}
+
+.social-btn i {
+  font-size: 24px;
+  color: #000;
+}
+.social-btn:hover {
+  background: #00ab66;
+}
+.social-btn:hover i {
+  color: #fff;
+}
+
+.social-btn span {
+  width: 0px;
+  overflow: hidden;
+  transition: 0.3s;
+  text-align: center;
+  margin-left: 5px;
+  font-weight: 800;
+}
+
+.social-btn:hover {
+  width: 150px;
+  border-radius: 50px;
+}
+
+.social-btn:hover span {
+  padding: 2px;
+  width: 80px;
+}
