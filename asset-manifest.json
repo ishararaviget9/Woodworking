@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Woodworking/static/css/main.9528d808.css",
+    "main.css": "/Woodworking/static/css/main.37735071.css",
     "main.js": "/Woodworking/static/js/main.6aa5d39a.js",
     "static/js/787.564b8705.chunk.js": "/Woodworking/static/js/787.564b8705.chunk.js",
     "static/media/wood-tools-desk.png": "/Woodworking/static/media/wood-tools-desk.a108e4b9e3141dffb525.png",
     "static/media/woodLogo1.svg": "/Woodworking/static/media/woodLogo1.605101f7efcde723e10cc3977f1f3412.svg",
     "static/media/my_logo.png": "/Woodworking/static/media/my_logo.d118d2477c2ca5d1e38a.png",
     "index.html": "/Woodworking/index.html",
-    "main.9528d808.css.map": "/Woodworking/static/css/main.9528d808.css.map",
+    "main.37735071.css.map": "/Woodworking/static/css/main.37735071.css.map",
     "main.6aa5d39a.js.map": "/Woodworking/static/js/main.6aa5d39a.js.map",
     "787.564b8705.chunk.js.map": "/Woodworking/static/js/787.564b8705.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9528d808.css",
+    "static/css/main.37735071.css",
     "static/js/main.6aa5d39a.js"
   ]
 }
