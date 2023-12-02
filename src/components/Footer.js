@@ -53,7 +53,7 @@ const Footer = () => {
               </a>
             </div>
             <p>
-              Let's connect with us and comfort in the future<br></br> with
+              Let's connect with us and comfort with<br></br>
               advanced technologies.
             </p>
           </div>

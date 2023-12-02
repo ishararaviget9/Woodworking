@@ -1,5 +1,5 @@
 import "./HeroStyle.css";
-import ImgWall from "../assets/img/wood-tools-desk.png";
+import ImgWall from "../assets/img/wood-tools-desk.jpg";
 function Hero() {
   return (
     <>
