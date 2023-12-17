@@ -1,37 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <link
-      href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css"
-      rel="stylesheet"
-    />
-
-    <title>Siriwardhana Woodwork</title>
+<!-------------------------------------------->
 
     <meta
       http-equiv="Accept-CH"
       content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model"
     />
-    <link rel="icon" type="image/x-icon" href="%PUBLIC_URL%/woodLogo1.ico" />
     <link
-      rel="canonical"
-      href="https://ishararaviget9.github.io/Woodworking/"
+      rel="icon"
+      type="image/x-icon"
+      href="https://images.squarespace-cdn.com/content/v1/56e2e338859fd0fd2f56acae/1461784174643-ISLFNLC8BCMK8UNM6UQW/favicon.ico?format=100w"
     />
+    <link rel="canonical" href="http://www.urbanhomecraft.com" />
     <meta property="og:site_name" content="Siriwardhana Woodwork" />
     <meta
       property="og:title"
       content="Custom Furniture | Any Woodworking | Let us build for you!"
     />
-    <meta
-      property="og:url"
-      content="https://ishararaviget9.github.io/Woodworking/"
-    />
+    <meta property="og:url" content="https://ishararaviget9.github.io/Woodworking/" />
     <meta property="og:type" content="website" />
     <meta
       property="og:description"
@@ -47,10 +31,7 @@
       itemprop="name"
       content="Custom Furniture &#124; Any Woodworking &amp; Let us build for you! &#124; Siriwardhana Woodwork"
     />
-    <meta
-      itemprop="url"
-      content="https://ishararaviget9.github.io/Woodworking/"
-    />
+    <meta itemprop="url" content="https://ishararaviget9.github.io/Woodworking/" />
     <meta
       itemprop="description"
       content="Here at SIRIWARDHANA WOODWORK we are committed to making your design, ideas, custom furniture success by merging advanced technology and expert craftsmanship."
@@ -75,10 +56,7 @@
       name="twitter:image"
       content="http://static1.squarespace.com/static/56e2e338859fd0fd2f56acae/t/652da07679f08443f3adef72/1697489014445/mixed_wood_builtin_bench.jpg?format=1500w"
     />
-    <meta
-      name="twitter:url"
-      content="https://ishararaviget9.github.io/Woodworking/"
-    />
+    <meta name="twitter:url" content="https://ishararaviget9.github.io/Woodworking/" />
     <meta name="twitter:card" content="summary" />
     <meta
       name="twitter:description"
@@ -90,8 +68,3 @@
     />
 
     <!-------------------------------------------->
-  </head>
-  <body>
-    <div id="root"></div>
-  </body>
-</html>
