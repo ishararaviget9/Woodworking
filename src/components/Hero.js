@@ -21,7 +21,10 @@ function Hero() {
             <a href="https://example.com" className="btn">
               <i className="animation"></i>English<i className="animation"></i>
             </a>
-            <a href="https://example.com" className="btn">
+            <a
+              href="https://ishararaviget9.github.io/woodwork-sin"
+              className="btn"
+            >
               <i className="animation"></i>සිංහල<i className="animation"></i>
             </a>
           </div>
